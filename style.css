@@ -1,5 +1,29 @@
 .header {
     width: 100vw;
     height: 100vh;
-    background-color: black;
+    background-color:darkslategray ;
 }
+
+
+
+.my_photo {
+    width: 300px;
+    height: 200px;
+    margin: 20px 0 0 0;
+}
+
+.info {
+    color:black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.email {
+    color:black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.git {
+    color:black;
+    font-family: 'Roboto', sans-serif;
+}
+
