@@ -1,33 +1,57 @@
 .header {
-    width: 100vw;
-    height: 100vh;
-    background-color:darkslategray ;
+    /* width: 350px; */
+    display: flex;
 }
 
-
+.wrapper_header{    
+    width: 350px;
+    height: 290px;
+    background-color:darkslategray ;
+    border-radius: 15px;
+    margin: 20px 0 0 40px;
+    
+}
 
 .my_photo {
     width: 300px;
     height: 200px;
     margin: 20px 0 0 0;
+    margin: 10px 0 0 10px;
+    border-radius: 50%;
 }
 
 .info {
     color:black;
     font-family: 'Roboto', sans-serif;
+    margin: 0 0 0 10px;
 }
 
 .email {
     color:black;
     font-family: 'Roboto', sans-serif;
+    margin: 0 0 0 10px;
 }
 
 .git {
     color:black;
     font-family: 'Roboto', sans-serif;
+    margin: 0 0 0 10px;
 }
 
-.about_me {
-    
+.wrapper_about_me {
+    width: 700px;
+    height: 290px;
+    background-color:darkslategray ;
+   border-radius: 15px;
+   margin: 20px 0 0 50px;
+   
+   font-family: 'Roboto', sans-serif;
 }
+
+.mark {
+    margin: 10px;
+}
+
+
+
 
