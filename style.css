@@ -49,8 +49,39 @@
 }
 
 .mark {
-    margin: 10px;
+    margin: 110px 0 0 50px;
+    
 }
+
+.footer {
+    width: 1100px;
+    height: 250px;
+    background-color: darkslategray;
+    margin: 20px 0 0 40px;
+    border-radius: 15px;
+}
+
+.skills {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.css {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.hobies {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fencing {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
 
 
 
